@@ -1,0 +1,6 @@
+train: C:\Users\unico\Downloads\DatasetTreino\train
+val: C:\Users\unico\Downloads\DatasetTreino\val
+test: C:\Users\unico\Downloads\DatasetTreino\test
+
+nc: 2
+names: ['Metralhadora','Pistola']
